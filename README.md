@@ -1,6 +1,6 @@
 # arc_phone_dex
 
-A pokedex
+An open-source PokéDex made with Flutter
 
 ## Getting Started
 
